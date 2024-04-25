@@ -11,11 +11,11 @@
   "license": "ISC",
   "devDependencies": {
     "@babel/cli": "^7.24.1",
-    "@babel/core": "^7.24.4"
-  },
-  "dependencies": {
-    "core-js": "^3.37.0",
+    "@babel/core": "^7.24.4",
     "react": "16.5",
     "react-dom": "16.5"
+  },
+  "dependencies": {
+    "core-js": "^3.37.0"
   }
 }
